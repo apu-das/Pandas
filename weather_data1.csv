@@ -1,0 +1,9 @@
+day,temperature,windspeed,event
+17/09/23,32,6,Rain
+18/09/23,NaN,9,Sunny
+19/09/23,28,NaN,Snow
+20/09/23,NaN,7,NaN
+21/09/24,32,NaN,Rain
+22/09/23,NaN,NaN,Sunny
+23/09/23,NaN,NaN,NaN
+24/09/23,34,8,Cloudy
